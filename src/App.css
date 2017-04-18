@@ -6,3 +6,8 @@ h1 {
   max-height: 16px;
   max-width: 16px;
 }
+
+.face {
+  max-height: 50px;
+  max-width: 50px;
+}
